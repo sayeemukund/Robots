@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GWzsSvI9wUiRjp1BHCGQAg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="udemy.com/course/complete-uipath-rpa-developer-course/learn/lecture/34093854" CVScreenId="f671edf4-541b-4231-9290-050713fbd59f" CvTextArea="181, 498, 248, 19" CvTextArgument="Search Google or type a U..." CvType="Text" DesignTimeRectangle="117, 477, 422, 61" DesignTimeScaleFactor="1.25" ElementType="DropDown" FullSelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='Search Google or type a URL' role='combo box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='Search Google or type a URL' role='combo box' automationid='' /&gt;" Guid="a9028f7b-f052-4a99-a155-5d33fe787a96" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8a982b1356f9f8ce820d747434dd0ae4.png" xmlns="">04yaD7f1_KECRrsYWSEBp8w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
